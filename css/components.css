@@ -1,0 +1,30 @@
+/* Cards */
+
+.cards {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+
+.card {
+  --card-p-x: 1rem;
+  --card-p-y: 1rem;
+
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  max-width: 20rem;
+}
+
+.card-header {
+  background-color: #e48d85;
+  font-size: 1.35rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: var(--card-p-x) var(--card-p-y);
+  text-align: center;
+}
+
+.card-body {
+  background-color: #fff;
+  padding: var(--card-p-x) var(--card-p-y);
+}
