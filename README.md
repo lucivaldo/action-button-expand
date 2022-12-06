@@ -1,6 +1,10 @@
 # Action Button Expand
 
-## Como visualizar o exemplo
+## Link do exemplo no codepen
+
+[https://codepen.io/lucivaldo/pen/RwJYbMr](https://codepen.io/lucivaldo/pen/RwJYbMr)
+
+## Como visualizar o exemplo localmente
 
 Instalar o servidor web:
 
